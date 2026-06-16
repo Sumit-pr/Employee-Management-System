@@ -145,3 +145,6 @@ Full Stack Developer | React | FastAPI | MySQL | Python | UiPath
 
 This project is for learning and portfolio purposes.
 
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/ffbee909-3bc4-4a78-82c7-1849467398fb" />
+
+
